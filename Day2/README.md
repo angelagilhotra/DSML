@@ -8,6 +8,7 @@ It is divided as follows:
 5. trends-api.py 
 6. twitter_stream_1000tweets.txt
 7. user-api.py 
+
 (* = Directory)
 
 analysing-tweets
