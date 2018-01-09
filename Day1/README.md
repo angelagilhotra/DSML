@@ -1,11 +1,11 @@
 This is the Day1 subdirectory of the root folder
 
 It is divided as follows: 
-	1 facebook*
-	2 python*
-	3 twitter*
-	4 web-scraping*
-	5 tasks1.pdf
+	1. facebook*
+	2. python*
+	3. twitter*
+	4. web-scraping*
+	5. tasks1.pdf
 (* = directory)
 
 facebook
