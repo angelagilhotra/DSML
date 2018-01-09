@@ -9,6 +9,7 @@ This directory has the following files/subdirectories:
 3. Day4*
 4. README.md
 5. Angela_Gilhotra_CV.pdf
+
 (* = Directory)
 
 A README file has been included in all subdirectories and contains information regarding each file/subdirectories (with a short description) in that particular directory.
