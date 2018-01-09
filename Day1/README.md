@@ -1,3 +1,5 @@
+Day 1
+=====
 This is the Day1 subdirectory of the root folder
 
 It is divided as follows: 
